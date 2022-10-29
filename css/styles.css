@@ -57,6 +57,7 @@ body {
   text-decoration: none;
 }
 
+.active-link,
 .menu-item-link:hover,
 .menu-item-link:focus,
 .contact-item-link:hover,
