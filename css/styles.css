@@ -57,6 +57,10 @@ body {
   text-decoration: none;
 }
 
+.contact-item-link {
+  color: var(--secondary-text-color);
+}
+
 .active-link,
 .menu-item-link:hover,
 .menu-item-link:focus,
